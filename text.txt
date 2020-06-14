@@ -3,3 +3,6 @@ from MASTER
 from feature1
 
 from test
+
+from MASTER 2
+
